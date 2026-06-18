@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YpLKXMUp49U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Felip\\estruturas.Net\\Estruturas\\Estruturas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Felip\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Felip\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Felip\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\Felip\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
